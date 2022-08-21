@@ -1,0 +1,10 @@
+name = "react-cdn"
+type = 'webpack'
+account_id = '0f678b61f7df0d2d3fb31ebdc05417bb'
+route = ''
+usage_model = 'bundled'
+workers_dev = true
+target_type = "webpack"
+main = "workers-site/index.js"
+site = {bucket = "./build"}
+compatibility_date = "2022-07-21"
